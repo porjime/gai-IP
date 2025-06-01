@@ -1,1 +1,1 @@
-# gai-IP
+# gai-IPCommit 1 - Initial project setup
